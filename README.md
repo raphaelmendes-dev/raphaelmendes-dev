@@ -110,7 +110,7 @@ text
 
 ## 📫 Connect
 
-[![LinkedIn](https://www.linkedin.com/in/raphael-mendes-9ba7613a5/)
+** LinkedIn- (https://www.linkedin.com/in/raphael-mendes-9ba7613a5/)
 
 ---
 
