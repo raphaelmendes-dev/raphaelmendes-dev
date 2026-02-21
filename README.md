@@ -8,7 +8,7 @@ I design AI applications that prioritize **reliability**, **performance**, and *
 
 ## 🚀 Featured Projects
 
-### 🔹 [**finai-companion**]
+### 🔹 [**FinAI-Assistente-Financeiro**]
 *AI-powered financial assistant combining conversational intelligence with deterministic financial calculations.*
 
 **Problem:** Most financial AI tools either provide generic explanations or inaccurate AI-generated calculations.
@@ -32,7 +32,7 @@ text
 
 ---
 
-### 🔹 [**antifraude-bootcamp-ai102**]
+### 🔹 [**Document-Fraud-Detection**]
 *Document validation pipeline with OCR simulation and rule-based fraud detection.*
 
 **Problem:** Manual validation of invoices and documents is slow and prone to human error.
@@ -110,7 +110,7 @@ text
 
 ## 📫 Connect
 
-** LinkedIn- (https://www.linkedin.com/in/raphael-mendes-9ba7613a5/)
+** LinkedIn - (https://www.linkedin.com/in/raphael-mendes-9ba7613a5/)
 
 ---
 
