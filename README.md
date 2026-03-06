@@ -1,5 +1,5 @@
 <div align="right">
-  <strong>English version →</strong> <a href="README.en.md">Switch to English</a> 
+  <strong>English version →</strong> <a href="README.en.md">Switch to English</a>
 </div>
 
 <h1 align="center">Raphael Mendes</h1>
@@ -17,9 +17,6 @@
   Foco em baixa latência, contexto persistente e validação determinística para evitar alucinações em cenários reais.
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelmendes-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas GitHub"/>
-</div>
 
 ### 🚀 Projetos em Destaque
 - **whatsapp-sales-agent-shopify** → Agente conversacional para vendas via WhatsApp integrado com Shopify  
@@ -41,5 +38,3 @@ Aberto a projetos freelance de arquitetura de IA aplicada, agents conversacionai
 Disponível para colaborações, consultorias ou freelancer.  
 Vamos conversar?  
 📩 [rmendes.dev@outlook.com](mailto:rmendes.dev@outlook.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/raphaelmendes-dev/) | 💼 [99Freelas](https://www.99freelas.com.br/user/raphaelmendes-dev)
-
-<!-- Commit para atualizar renderização - 05/03/2026 -->
