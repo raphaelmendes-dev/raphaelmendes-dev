@@ -1,117 +1,45 @@
-# 👋 Hi, I'm Raphael Mendes
+<div align="right">
+  <strong>English version →</strong> <a href="README.en.md">Switch to English</a> 
+</div>
 
-**AI Engineer** focused on building hybrid AI systems that combine Large Language Models with deterministic validation, business logic, and real-world constraints.
+<h1 align="center">Raphael Mendes</h1>
 
-I design AI applications that prioritize **reliability**, **performance**, and **structured reasoning** over hype.
+<p align="center">
+  <a href="https://www.linkedin.com/in/raphaelmendes-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.99freelas.com.br/user/raphaelmendes-dev"><img src="https://img.shields.io/badge/99Freelas-FF6B00?style=for-the-badge&logoColor=white" alt="99Freelas"/></a>
+  <a href="mailto:rmendes.dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
----
+<h3 align="center">Engenheiro de IA | Especialista em Arquiteturas Híbridas (LLMs + Lógica Determinística) | Groq • Azure AI • FastAPI • Redis</h3>
 
-## 🚀 Featured Projects
+<p align="center">
+  Construo sistemas de IA aplicada confiáveis e escaláveis para automação inteligente, vendas conversacionais, finanças e detecção de fraude.<br>
+  Foco em baixa latência, contexto persistente e validação determinística para evitar alucinações em cenários reais.
+</p>
 
-### 🔹 [**FinAI-Assistente-Financeiro**]
-*AI-powered financial assistant combining conversational intelligence with deterministic financial calculations.*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelmendes-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas GitHub"/>
+</div>
 
-**Problem:** Most financial AI tools either provide generic explanations or inaccurate AI-generated calculations.
+### 🚀 Projetos em Destaque
+- **whatsapp-sales-agent-shopify** → Agente conversacional para vendas via WhatsApp integrado com Shopify  
+- **ai-voice-assistant-groq** → Assistente de voz de baixa latência com Groq  
+- **FinAI-Core** → Ecossistema financeiro híbrido com dados macroeconômicos  
+- **Document-Fraud-Detection** → Detecção de fraude em documentos com validação híbrida  
 
-**Solution:** Hybrid architecture with strict separation between LLM and calculation engine.
+### 🛠️ Stack Principal
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-FF6B00?style=flat&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+</p>
 
-**Architecture:**
-LLM Layer (Groq) → Natural language understanding
-Deterministic Layer → Financial calculations (interest, compound growth)
-Database Layer (SQLite) → User context persistence
-UI Layer (Streamlit) → Interface
+Aberto a projetos freelance de arquitetura de IA aplicada, agents conversacionais (WhatsApp, voz, n8n), automação híbrida e detecção de fraude.  
+Disponível para colaborações, consultorias ou freelancer.  
+Vamos conversar?  
+📩 [rmendes.dev@outlook.com](mailto:rmendes.dev@outlook.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/raphaelmendes-dev/) | 💼 [99Freelas](https://www.99freelas.com.br/user/raphaelmendes-dev)
 
-text
-
-**Engineering Decisions:**
-- Rule-based validation ensures numerical accuracy
-- Context persistence simulates advisory continuity
-- Modular design allows swapping LLM providers
-
-**Stack:** `Python` `Groq` `Streamlit` `SQLite` `Prompt Engineering`
-
----
-
-### 🔹 [**Document-Fraud-Detection**]
-*Document validation pipeline with OCR simulation and rule-based fraud detection.*
-
-**Problem:** Manual validation of invoices and documents is slow and prone to human error.
-
-**Solution:** End-to-end pipeline prioritizing deterministic validation over AI "guessing".
-
-**Architecture:**
-PDF Extraction (pdfplumber/Camelot) → Structured text
-Validation Engine → CNPJ algorithm, date anomalies, value mismatches
-Risk Scoring → Rule-based flags
-UI Layer (Streamlit) → Reports
-
-text
-
-**Engineering Decisions:**
-- Implemented Brazilian CNPJ check-digit algorithm from scratch
-- Rule-engine approach (not AI-dependent)
-- Regex-based structured parsing for consistency
-
-**Stack:** `Python` `Streamlit` `pdfplumber` `Camelot` `Regex` `Validation Logic`
-
----
-
-### 🔹 [**ai-voice-assistant-groq(Groq + LLM)**]
-*Real-time conversational voice assistant optimized for speed.*
-
-**Problem:** Most voice assistants suffer from latency (>2s) and rigid interaction flows.
-
-**Solution:** Streaming pipeline achieving near-real-time response using Groq's high-throughput inference.
-
-**Architecture:**
-ASR (Whisper) → Speech-to-text
-LLM (Groq) → <500ms inference
-TTS (gTTS) → Voice synthesis
-UI (Streamlit) → Interface
-
-text
-
-**Technical Focus:**
-- Latency optimization (total round-trip < 2s)
-- Streaming response handling
-- Persona-controlled system prompting
-
-**Stack:** `Python` `Groq` `Whisper` `gTTS` `Streamlit`
-
----
-
-## 🧠 Engineering Philosophy
-
-- **Prefer deterministic validation** over blind LLM trust
-- **Separate AI reasoning from business logic** (modular architecture)
-- **Build hybrid systems** (LLM + rules + databases)
-- **Optimize for latency and usability** before scaling
-- **Measure what matters** (response time, accuracy, reliability)
-
----
-
-## 🛠 Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Core** | Python, SQL, Git, System Design |
-| **AI/ML** | LLMs (Groq, OpenAI), Prompt Engineering, ASR/TTS, Azure AI (AI-102 in progress) |
-| **Frameworks** | Streamlit, FastAPI, GitHub Actions |
-| **Focus Areas** | Generative AI, Hybrid Architectures, Document Intelligence, Voice Interfaces |
-
----
-
-## 📌 Currently
-
-- Preparing for **Microsoft AI-102 (Azure AI Engineer Associate)**
-- Building **Teia do Saber** – AI-driven educational system with question generation and adaptive error tracking
-
----
-
-## 📫 Connect
-
-** LinkedIn - (https://www.linkedin.com/in/raphael-mendes-9ba7613a5/)
-
----
-
-*"I care less about AI hype — and more about AI that works."*
+<!-- Commit para atualizar renderização - 05/03/2026 -->
