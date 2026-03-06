@@ -17,12 +17,9 @@
   Focus on low latency, persistent context, and deterministic validation to prevent hallucinations in real-world scenarios.
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelmendes-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</div>
 
 ### 🚀 Featured Projects
-- **whatsapp-sales-agent-shopify** → Conversational sales agent for WhatsApp integrated with Shopify  
+- **whatsapp-sales-agent-shopify** → Conversational sales agent for WhatsApp + Shopify integration  
 - **ai-voice-assistant-groq** → Low-latency voice assistant powered by Groq  
 - **FinAI-Core** → Hybrid financial ecosystem with macroeconomic data  
 - **Document-Fraud-Detection** → Document fraud detection with hybrid validation  
@@ -38,6 +35,6 @@
 </p>
 
 Open to freelance projects in applied AI architecture, conversational agents (WhatsApp, voice, n8n), hybrid automation, and fraud detection.  
-Available for collaborations, consulting, or gigs .  
+Available for collaborations, consulting, or Freelance Projects.  
 Let's connect!  
 📩 [rmendes.dev@outlook.com](mailto:rmendes.dev@outlook.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/raphaelmendes-dev/) | 💼 [99Freelas](https://www.99freelas.com.br/user/raphaelmendes-dev)
