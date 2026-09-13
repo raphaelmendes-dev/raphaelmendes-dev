@@ -3,47 +3,47 @@
 
 # Raphael Mendes
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-modular-rs4-machine.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-modular-rs4-machine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelmendes-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmendes.dev@outlook.com)
 
-**🇧🇷 Português (este arquivo)** · [🇺🇸 Switch to English](README.en.md)
+[🇧🇷 Mudar para Português](README.pt-BR.md) · **🇺🇸 English (this file)**
 
-### Full Stack & AI Automation Engineer · Rs4Machine
+### AI Engineer & Founder · Rs4Machine
 
 </div>
 
-Construo sistemas de IA aplicada confiáveis e escaláveis — arquiteturas híbridas que combinam **LLMs + lógica determinística** para eliminar alucinações em cenários reais.
-Foco em baixa latência, contexto persistente e impacto mensurável.
+I build reliable, scalable applied-AI systems — hybrid architectures combining **LLMs + deterministic logic** to eliminate hallucinations in real-world scenarios.
+Focused on low latency, persistent context, and measurable impact.
 
 ---
 
 ## 🧪 RS4 Lab
 
-> Experimentar primeiro. Medir. Entender. Só então escalar.
+> Experiment first. Measure. Understand. Only then scale.
 
-O **[RS4 Lab](https://github.com/raphaelmendes-dev/RS4-lab)** é o laboratório experimental da Rs4Machine — um espaço de experimentação controlada em sistemas inteligentes, agentes de IA e engenharia de software. Não é uma startup nem um playground de agentes: é um laboratório com método, onde hipóteses viram experimentos, experimentos viram evidências, e evidências viram decisões — sempre com o humano como decisor final.
+**[RS4 Lab](https://github.com/raphaelmendes-dev/RS4-lab)** is Rs4Machine's experimental lab — a space for controlled experimentation in intelligent systems, AI agents, and software engineering. It isn't a startup, and it isn't an agent playground: it's a lab with a method, where hypotheses become experiments, experiments become evidence, and evidence becomes decisions — always with a human as the final decision-maker.
 
-- 🧭 Humano como decisor final em toda decisão crítica
-- 🛑 Todo sistema autônomo precisa de uma forma clara e rápida de ser interrompido
-- 📊 Decisões orientadas por métricas, não por intuição
+- 🧭 A human remains the final decision-maker on every critical call
+- 🛑 Every autonomous system needs a clear, fast way to be interrupted
+- 📊 Decisions driven by metrics, not intuition
 
-**[→ Conheça o RS4 Lab](https://github.com/raphaelmendes-dev/RS4-lab)**
+**[→ Check out RS4 Lab](https://github.com/raphaelmendes-dev/RS4-lab)**
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projects
 
-| # | Projeto | Descrição | Stack | Demo |
+| # | Project | Description | Stack | Demo |
 |---|---|---|---|---|
-| 01 | **[SofiaVoice v2.0](https://github.com/raphaelmendes-dev/ai-voice-assistant-groq)** | Assistente de voz full-duplex — pipeline assíncrono STT → LLM → TTS com voz neural (Edge-TTS) | Groq · Whisper · Edge-TTS · FastAPI · Next.js | [🚀 Live](https://ai-voice-assistant-groq.vercel.app/sofia-voice) |
-| 02 | **[FraudEye](https://github.com/raphaelmendes-dev/fraudeye)** | Detecção de fraude em NF-e com visão computacional + regras determinísticas | FastAPI · CV · Next.js | [🚀 Live](https://fraudeye-frontend.vercel.app/fraud-eye) |
-| 03 | **[Translatia](https://github.com/raphaelmendes-dev/Technical-Article-Translator)** | Tradutor de artigos técnicos com chunking inteligente e preservação de terminologia | FastAPI · pypdf · Next.js | [🚀 Live](https://technical-article-translator.vercel.app/translatia) |
-| 04 | **[FinAI](https://github.com/raphaelmendes-dev/FinAI-Assistente-Financeiro)** | Dashboard financeiro com Gemini AI + dados reais de mercado | Gemini · yfinance · FastAPI · Next.js | [🚀 Live](https://finai-companion.vercel.app/finai) |
+| 01 | **[SofiaVoice v2.0](https://github.com/raphaelmendes-dev/ai-voice-assistant-groq)** | Full-duplex voice assistant — asynchronous STT → LLM → TTS pipeline with neural voice (Edge-TTS) | Groq · Whisper · Edge-TTS · FastAPI · Next.js | [🚀 Live](https://ai-voice-assistant-groq.vercel.app/sofia-voice) |
+| 02 | **[FraudEye](https://github.com/raphaelmendes-dev/fraudeye)** | Brazilian e-invoice (NF-e) fraud detection with computer vision + deterministic rules | FastAPI · CV · Next.js | [🚀 Live](https://fraudeye-frontend.vercel.app/fraud-eye) |
+| 03 | **[Translatia](https://github.com/raphaelmendes-dev/Technical-Article-Translator)** | Technical article translator with smart chunking and terminology preservation | FastAPI · pypdf · Next.js | [🚀 Live](https://technical-article-translator.vercel.app/translatia) |
+| 04 | **[FinAI](https://github.com/raphaelmendes-dev/FinAI-Assistente-Financeiro)** | Financial dashboard powered by Gemini AI with real market data | Gemini · yfinance · FastAPI · Next.js | [🚀 Live](https://finai-companion.vercel.app/finai) |
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Core Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -59,14 +59,16 @@ O **[RS4 Lab](https://github.com/raphaelmendes-dev/RS4-lab)** é o laboratório 
 
 ---
 
-## 📬 Contato
+## 📬 Contact
+
+Open to freelance work, technical partnerships, opportunities, and conversations about Rs4Machine.
 
 📩 [rmendes.dev@outlook.com](mailto:rmendes.dev@outlook.com) ·
 🔗 [LinkedIn](https://www.linkedin.com/in/raphaelmendes-dev/) ·
-🌐 [Portfólio](https://portfolio-modular-rs4-machine.vercel.app/)
+🌐 [Portfolio](https://portfolio-modular-rs4-machine.vercel.app/)
 
 <div align="center">
 
-*Raphael Mendes · Rs4Machine · Setembro 2026*
+*Raphael Mendes · Rs4Machine · September 2026*
 
 </div>
