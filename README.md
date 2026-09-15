@@ -34,12 +34,13 @@ Focused on low latency, persistent context, and measurable impact.
 
 ## 🚀 Projects
 
-| # | Project | Description | Stack | Demo |
+| # | Project | Description | Stack | Link |
 |---|---|---|---|---|
 | 01 | **[SofiaVoice v2.0](https://github.com/raphaelmendes-dev/ai-voice-assistant-groq)** | Full-duplex voice assistant — asynchronous STT → LLM → TTS pipeline with neural voice (Edge-TTS) | Groq · Whisper · Edge-TTS · FastAPI · Next.js | [🚀 Live](https://ai-voice-assistant-groq.vercel.app/sofia-voice) |
 | 02 | **[FraudEye](https://github.com/raphaelmendes-dev/fraudeye)** | Brazilian e-invoice (NF-e) fraud detection with computer vision + deterministic rules | FastAPI · CV · Next.js | [🚀 Live](https://fraudeye-frontend.vercel.app/fraud-eye) |
 | 03 | **[Translatia](https://github.com/raphaelmendes-dev/Technical-Article-Translator)** | Technical article translator with smart chunking and terminology preservation | FastAPI · pypdf · Next.js | [🚀 Live](https://technical-article-translator.vercel.app/translatia) |
 | 04 | **[FinAI](https://github.com/raphaelmendes-dev/FinAI-Assistente-Financeiro)** | Financial dashboard powered by Gemini AI with real market data | Gemini · yfinance · FastAPI · Next.js | [🚀 Live](https://finai-companion.vercel.app/finai) |
+| 05 | **[RS4Commerce v1.0](https://github.com/raphaelmendes-dev/rs4-commerce-pipeline)** | Deterministic local AI pipeline for commercial opportunity triage, $0.00 infra & LGPD compliance | Docker · Ollama · Qwen 2.5 · Python stdlib | [📦 Repo](https://github.com/raphaelmendes-dev/rs4-commerce-pipeline) |
 
 ---
 
@@ -48,12 +49,12 @@ Focused on low latency, persistent context, and measurable impact.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F6B000?style=flat&logoColor=white)
-![Edge-TTS](https://img.shields.io/badge/Edge--TTS-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-6A5ACD?style=flat&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
