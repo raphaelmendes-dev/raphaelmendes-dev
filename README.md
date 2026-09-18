@@ -41,6 +41,7 @@ Focused on low latency, persistent context, and measurable impact.
 | 03 | **[Translatia](https://github.com/raphaelmendes-dev/Technical-Article-Translator)** | Technical article translator with smart chunking and terminology preservation | FastAPI · pypdf · Next.js | [🚀 Live](https://technical-article-translator.vercel.app/translatia) |
 | 04 | **[FinAI](https://github.com/raphaelmendes-dev/FinAI-Assistente-Financeiro)** | Financial dashboard powered by Gemini AI with real market data | Gemini · yfinance · FastAPI · Next.js | [🚀 Live](https://finai-companion.vercel.app/finai) |
 | 05 | **[RS4Commerce v1.0](https://github.com/raphaelmendes-dev/rs4-commerce-pipeline)** | Deterministic local AI pipeline for commercial opportunity triage, $0.00 infra & LGPD compliance | Docker · Ollama · Qwen 2.5 · Python stdlib | [📦 Repo](https://github.com/raphaelmendes-dev/rs4-commerce-pipeline) |
+| 06 | **[raphaelmendes-dev](https://github.com/raphaelmendes-dev/raphaelmendes-dev)** | Developer profile and portfolio README showcasing applied-AI projects and engineering work | Markdown · GitHub Profile | [📖 README](https://github.com/raphaelmendes-dev/raphaelmendes-dev) |
 
 ---
 
