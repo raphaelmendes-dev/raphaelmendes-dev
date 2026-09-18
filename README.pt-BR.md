@@ -22,7 +22,7 @@ Foco em baixa latência, contexto persistente e impacto mensurável.
 
 > Experimentar primeiro. Medir. Compreender. Somente então escalar.
 
-O **[RS4 Lab](https://github.com/raphaelmendes-dev/RS4-lab)** é o laboratório experimental da Rs4Machine — um espaço para experimentação controlada em sistemas inteligentes, agentes de IA e engenharia de software. Não é uma startup e não é um playground de agentes: é um laboratório com método, onde hipóteses viram experimentos, experimentos viram evidências e evidências viram decisões — sempre com um humano como tomador de decisão final.
+O **[RS4 Lab](https://github.com/raphaelmendes-dev/RS4-lab)** é o laboratório experimental da Rs4Machine — um espaço para experimentação controlada em sistemas inteligentes, agentes de IA e software engineering. Não é uma startup, nem um playground de agentes: é um laboratório com método, onde hipóteses se tornam experimentos, experimentos se tornam evidências e evidências se transformam em decisões — sempre com um humano como decisor final.
 
 - 🧭 Um humano permanece como o tomador de decisão final em todas as chamadas críticas
 - 🛑 Todo sistema autônomo precisa de uma forma clara e rápida de ser interrompido
@@ -36,11 +36,12 @@ O **[RS4 Lab](https://github.com/raphaelmendes-dev/RS4-lab)** é o laboratório 
 
 | # | Projeto | Descrição | Stack | Link |
 |---|---|---|---|---|
-| 01 | **[SofiaVoice v2.0](https://github.com/raphaelmendes-dev/ai-voice-assistant-groq)** | Assistente de voz full-duplex — esteira assíncrona STT → LLM → TTS com voz neural (Edge-TTS) | Groq · Whisper · Edge-TTS · FastAPI · Next.js | [🚀 Aplicação](https://ai-voice-assistant-groq.vercel.app/sofia-voice) |
-| 02 | **[FraudEye](https://github.com/raphaelmendes-dev/fraudeye)** | Detecção de fraudes em notas fiscais eletrônicas (NF-e) com visão computacional + regras determinísticas | FastAPI · CV · Next.js | [🚀 Aplicação](https://fraudeye-frontend.vercel.app/fraud-eye) |
-| 03 | **[Translatia](https://github.com/raphaelmendes-dev/Technical-Article-Translator)** | Tradutor de artigos técnicos com fragmentação inteligente (chunking) e preservação de terminologia | FastAPI · pypdf · Next.js | [🚀 Aplicação](https://technical-article-translator.vercel.app/translatia) |
-| 04 | **[FinAI](https://github.com/raphaelmendes-dev/FinAI-Assistente-Financeiro)** | Dashboard financeiro alimentado por Gemini AI com dados de mercado em tempo real | Gemini · yfinance · FastAPI · Next.js | [🚀 Aplicação](https://finai-companion.vercel.app/finai) |
-| 05 | **[RS4Commerce v1.0](https://github.com/raphaelmendes-dev/rs4-commerce-pipeline)** | Pipeline local determinístico de IA para triagem de oportunidades comerciais, infra R$ 0,00 & LGPD | Docker · Ollama · Qwen 2.5 · Python stdlib | [📦 Repositório](https://github.com/raphaelmendes-dev/rs4-commerce-pipeline) |
+| 01 | **[SofiaVoice v2.0](https://github.com/raphaelmendes-dev/ai-voice-assistant-groq)** | Assistente de voz full-duplex — esteira assíncrona STT → LLM → TTS com voz neural (Edge-TTS) | Groq · Whisper · Edge-TTS · FastAPI · Next.js | [🚀 Live](https://ai-voice-assistant-groq.vercel.app/sofia-voice) |
+| 02 | **[FraudEye](https://github.com/raphaelmendes-dev/fraudeye)** | Detecção de fraudes em notas fiscais eletrônicas (NF-e) com visão computacional + regras determinísticas | FastAPI · CV · Next.js | [🚀 Live](https://fraudeye-frontend.vercel.app/fraud-eye) |
+| 03 | **[Translatia](https://github.com/raphaelmendes-dev/Technical-Article-Translator)** | Tradutor de artigos técnicos com fragmentação inteligente (chunking) e preservação de terminologia | FastAPI · pypdf · Next.js | [🚀 Live](https://technical-article-translator.vercel.app/translatia) |
+| 04 | **[FinAI](https://github.com/raphaelmendes-dev/FinAI-Assistente-Financeiro)** | Dashboard financeiro alimentado por Gemini AI com dados de mercado em tempo real | Gemini · yfinance · FastAPI · Next.js | [🚀 Live](https://finai-companion.vercel.app/finai) |
+| 05 | **[RS4Commerce v1.0](https://github.com/raphaelmendes-dev/rs4-commerce-pipeline)** | Pipeline local determinístico de IA para triagem de oportunidades comerciais, infra R$ 0,00 & LGPD | Docker · Ollama · Qwen 2.5 · Python stdlib | [📦 Repo](https://github.com/raphaelmendes-dev/rs4-commerce-pipeline) |
+| 06 | **[raphaelmendes-dev](https://github.com/raphaelmendes-dev/raphaelmendes-dev)** | Perfil e portfólio do desenvolvedor com destaque para projetos de IA aplicada e trabalho de engenharia | Markdown · GitHub Profile | [📖 README](https://github.com/raphaelmendes-dev/raphaelmendes-dev) |
 
 ---
 
