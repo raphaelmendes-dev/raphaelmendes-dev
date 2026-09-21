@@ -22,7 +22,7 @@ Focused on low latency, persistent context, and measurable impact.
 
 > Experiment first. Measure. Understand. Only then scale.
 
-**[RS4 Lab](https://github.com/raphaelmendes-dev/RS4-lab)** is Rs4Machine's experimental lab — a space for controlled experimentation in intelligent systems, AI agents, and software engineering. It isn't a startup, and it isn't an agent playground: it's a lab with a method, where hypotheses become experiments, experiments become evidence, and evidence becomes decisions — always with a human as the final decision-maker.
+**[RS4 Lab](https://github.com/raphaelmendes-dev/RS4-lab)** is Rs4Machine's experimental lab — a space for controlled experimentation in intelligent systems, AI agents, and software engineering.
 
 - 🧭 A human remains the final decision-maker on every critical call
 - 🛑 Every autonomous system needs a clear, fast way to be interrupted
@@ -41,7 +41,7 @@ Focused on low latency, persistent context, and measurable impact.
 | 03 | **[Translatia](https://github.com/raphaelmendes-dev/Technical-Article-Translator)** | Technical article translator with smart chunking and terminology preservation | FastAPI · pypdf · Next.js | [🚀 Live](https://technical-article-translator.vercel.app/translatia) |
 | 04 | **[FinAI](https://github.com/raphaelmendes-dev/FinAI-Assistente-Financeiro)** | Financial dashboard powered by Gemini AI with real market data | Gemini · yfinance · FastAPI · Next.js | [🚀 Live](https://finai-companion.vercel.app/finai) |
 | 05 | **[RS4Commerce v1.0](https://github.com/raphaelmendes-dev/rs4-commerce-pipeline)** | Deterministic local AI pipeline for commercial opportunity triage, $0.00 infra & LGPD compliance | Docker · Ollama · Qwen 2.5 · Python stdlib | [📦 Repo](https://github.com/raphaelmendes-dev/rs4-commerce-pipeline) |
-| 06 | **[raphaelmendes-dev](https://github.com/raphaelmendes-dev/raphaelmendes-dev)** | Developer profile and portfolio README showcasing applied-AI projects and engineering work | Markdown · GitHub Profile | [📖 README](https://github.com/raphaelmendes-dev/raphaelmendes-dev) |
+| 06 | **[RS4-cortex-flow](https://github.com/raphaelmendes-dev/RS4-cortex-flow)** | Deterministic local multi-agent orchestration pipeline (Ollama / Qwen 2.5 7B) running isolated via Docker with $0.00 infra cost. | Docker · Ollama · Qwen 2.5 · Python stdlib | [📦 Repo](https://github.com/raphaelmendes-dev/RS4-cortex-flow) |
 
 ---
 
