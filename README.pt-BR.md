@@ -5,11 +5,11 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-modular-rs4-machine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelmendes-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmendes.dev@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:python.dev.raphael@gmail.com)
 
 **🇧🇷 Português do Brasil (este arquivo)** · [🇺🇸 Switch to English](README.md)
 
-### Engenheiro de IA & Fundador · Rs4Machine
+### Engenheiro Principal & Fundador · Rs4Machine
 
 </div>
 
@@ -63,14 +63,19 @@ O **[RS4 Lab](https://github.com/raphaelmendes-dev/RS4-lab)** é o laboratório 
 
 ## 📬 Contato
 
-Aberto a trabalhos freelance, parcerias técnicas, oportunidades e conversas sobre a Rs4Machine.
+Aberto a projetos freelance, parcerias técnicas e conversas sobre sistemas de IA aplicada.
 
-📩 [rmendes.dev@outlook.com](mailto:rmendes.dev@outlook.com) ·
-🔗 [LinkedIn](https://www.linkedin.com/in/raphaelmendes-dev/) ·
-🌐 [Portfólio](https://portfolio-modular-rs4-machine.vercel.app/)
+📩 [python.dev.raphael@gmail.com](mailto:python.dev.raphael@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/raphaelmendes-dev/)  
+🌐 [Portfolio](https://portfolio-modular-rs4-machine.vercel.app/)
+
+---
+
+⭐ Se algum dos projetos te ajudou, considere deixar uma estrela.  
+Contribuições e feedbacks são sempre bem-vindos.
 
 <div align="center">
 
-*Raphael Mendes · Rs4Machine · Setembro de 2026*
+*Raphael Mendes · Rs4Machine · Setembro 2026*
 
 </div>
