@@ -9,7 +9,7 @@
 
 [🇧🇷 Mudar para Português](README.pt-BR.md) · **🇺🇸 English (this file)**
 
-### AI Engineer & Founder · Rs4Machine
+### Founder / Lead Engineer · Rs4Machine
 
 </div>
 
@@ -63,11 +63,16 @@ Focused on low latency, persistent context, and measurable impact.
 
 ## 📬 Contact
 
-Open to freelance work, technical partnerships, opportunities, and conversations about Rs4Machine.
+Open to freelance projects, technical partnerships and conversations about applied AI systems.
 
-📩 [rmendes.dev@outlook.com](mailto:rmendes.dev@outlook.com) ·
-🔗 [LinkedIn](https://www.linkedin.com/in/raphaelmendes-dev/) ·
+📩 [python.dev.raphael@gmail.com](mailto:python.dev.raphael@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/raphaelmendes-dev/)  
 🌐 [Portfolio](https://portfolio-modular-rs4-machine.vercel.app/)
+
+---
+
+⭐ If any of the projects helped you, consider giving it a star.  
+Contributions and feedback are always welcome.
 
 <div align="center">
 
